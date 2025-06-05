@@ -48,7 +48,7 @@ src/
 
 ## 🔗 Live Demo
 
-- You can view the deployed app on (Netlify).
+- You can view the deployed app on ("insta-spot-assignment.netlify.app").
 
 
 ## 🙌 Acknowledgements
